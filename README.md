@@ -20,4 +20,4 @@ sslots_player_threshold | Int | -1 | The amount of players allowed to actively p
 
 *Note that all configs should go in your server config file, not config_remoteadmin.txt
 
-### Place any suggestions/problems in [issues](https://github.com/NeonWizard/SCP-DisconnectDrop/issues)!
+### Place any suggestions/problems in [issues](https://github.com/NeonWizard/SCP-SpectatorSlots/issues)!
