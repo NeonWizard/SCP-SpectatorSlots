@@ -1,3 +1,4 @@
+**!!!UNFINISHED PROJECT!!!**
 # SpectatorSlots
 SpectatorSlots allows extra players to join the server and essentially wait in spectator mode until normal slots open up, at which point they will be able to participate in the game. No more spamming the connect button!
 
